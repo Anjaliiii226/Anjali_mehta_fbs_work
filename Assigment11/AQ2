@@ -1,0 +1,9 @@
+li1 = [10,20,30,40]
+li2 = [21,22,23,24]
+
+merged = li1 + li2
+merged.sort()
+
+print("The first number:",li1)
+print("The second number:",li2)
+print("Merge and sort the list:",merged)
